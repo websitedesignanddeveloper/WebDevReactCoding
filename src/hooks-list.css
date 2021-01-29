@@ -4,14 +4,14 @@
   padding: 30px;
 }
 
-.todo-list {
+/* .todo-list {
   transform: translate(-50%, -50%);
   position: absolute;
   top: 10%;
   left: 50%;
   width: 100%;
   background-size: 100%;
-}
+} */
 
 .todo-list {
   margin-top: 60px;
